@@ -9,18 +9,13 @@
 
 ## 🔧 Навыки
 - **Языки программирования**: Python, JavaScript, TypeScript  
-- **Backend**: Django, Flask, FastAPI, Django REST Framework  
+- **Backend**: Django, Flask, FastAPI, Go
 - **Frontend**: React, HTML5, CSS3, Bootstrap  
 - **Базы данных**: PostgreSQL, MySQL, SQLite, Redis  
-- **Инфраструктура**: Docker, Nginx, Gunicorn
+- **Инфраструктура**: Docker, Nginx
 
 ## 📂 Мои проекты  
 ### 🌱 [HealthMate](https://github.com/Vadimpich/healthmate-hackathon)  
 Сервис для анализа здоровья с использованием Django, React и ИИ:  
 - **Функционал**: Отслеживание сна, калорий и активности, умные рекомендации
 - **Технологии**: Django REST Framework, React, NumPy
-
-### 🛠 [Coworking App](https://github.com/Vadimpich/coworking-web-platform)
-Приложение для бронирования мест в коворкингах (**WiP!**):  
-- **Функционал**: Бронирование, заказы еды, личный кабинет
-- **Технологии**: Django, React
