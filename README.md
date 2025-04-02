@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Навыки
-- **Языки программирования**: Python, JavaScript, TypeScript  
+- **Языки программирования**: Python, Go, JavaScript 
 - **Backend**: Django, Flask, FastAPI, Go
 - **Frontend**: React, HTML5, CSS3, Bootstrap  
 - **Базы данных**: PostgreSQL, MySQL, SQLite, Redis  
